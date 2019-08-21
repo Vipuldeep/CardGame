@@ -1,5 +1,5 @@
 # PythonProject
-<h2>Card game</h2>
+Card game
 
 <h2>IDE</h2>
 Pycharm 
